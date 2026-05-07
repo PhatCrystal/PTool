@@ -1,7 +1,13 @@
 {
-  "versionCode": 3,
+  "versionCode": 5,
   "versionName": "3.6",
   "url": "https://github.com/PhatCrystal/PTool/raw/refs/heads/main/app-debug.apk",
-  "description": "K có gì tại thằng owner làm biếng update",
-  "forceUpdate": false
+  "description": [
+    "Update Tool Golike IG",
+    " - Chạy Đa tài khoản",
+    " - Vá 1 số bug giúp tool chạy okela hơn",
+    "Thêm UI nhỏ mới",
+    " - To hơn, dễ nhìn hơn"
+  ],
+  "forceUpdate": true
 }
