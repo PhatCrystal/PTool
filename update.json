@@ -1,5 +1,5 @@
 {
-  "versionCode": 6,
+  "versionCode": 7,
   "versionName": "3.6",
   "url": "https://github.com/PhatCrystal/PTool/raw/refs/heads/main/PTool.apk",
   "description": [
@@ -8,5 +8,5 @@
     "System Update",
     " - Hỗ trợ lưu tài khoản lâu"
   ],
-  "forceUpdate": true
+  "forceUpdate": false
 }
