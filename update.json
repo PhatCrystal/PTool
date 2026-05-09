@@ -1,10 +1,10 @@
 {
-  "versionCode": 8,
+  "versionCode": 9,
   "versionName": "3.6",
   "url": "https://github.com/PhatCrystal/PTool/raw/refs/heads/main/PTool.apk",
   "description": [
-    "Update St",
-    " Thêm setting Gọi hoàn thành job sau khi follow"
+    "IG Update",
+    " - Sửa lỗi job ig lỗi"
   ],
   "forceUpdate": false
 }
