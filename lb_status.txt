@@ -1,6 +1,6 @@
 link4m|true
 linktop|true
 taplayma|true
-laymanet|true
+laymanet|false
 linktop_ug|true
 laymanet_ug|true
