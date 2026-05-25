@@ -1,16 +1,12 @@
 {
-  "versionCode": 10,
+  "versionCode": 1,
   "versionName": "36.68",
   "url": "https://github.com/PhatCrystal/PTool/raw/refs/heads/main/PTool.apk",
   "description": [
-    "Cập nhật lớn về quản lý Account và Hệ thống:",
-    " - Thêm nút QUÉT ACC: Tự động lấy danh sách account TikTok đang có máy.",
-    " - Thêm Nuôi xoay vòng: Tự động đổi account sau số phút đã cài đặt.",
-    " - Thêm phát hiện TREO QUYỀN (Zombie State): Nhắc nhở khi quyền bị lỗi treo.",
-    " - Thêm nút THOÁT TOOL: Thoát app sạch sẽ để tránh lỗi mất quyền lần sau.",
-    " - Thêm nút Thông tin App: Truy cập nhanh để bật Tự khởi chạy hoặc Xóa dữ liệu.",
-    " - UI mới: Cho phép thu gọn danh sách account đã quét để dễ nhìn hơn.",
-    " - Cải thiện tốc độ quay lại App sau khi quét xong."
+    "Cập nhập về Tiktok",
+    " - Thêm Check Acc Xịn Hơn.",
+    " - Quét Acc Chi Tiết Hơn.",
+    "Thêm Link Vượt"
   ],
   "forceUpdate": false
 }
