@@ -1,12 +1,14 @@
 {
-  "versionCode": 10,
-  "versionName": "36.69",
+  "versionCode": 11,
+  "versionName": "36.70",
   "url": "https://github.com/PhatCrystal/PTool/raw/refs/heads/main/PTool.apk",
   "description": [
-    "Cập nhập về Tiktok",
-    " - Thêm Check Acc Xịn Hơn.",
-    " - Quét Acc Chi Tiết Hơn.",
-    "Thêm Link Vượt"
+    "Cập nhật Đột phá & Fix lỗi",
+    " - Hỗ trợ TikTok Tiếng Anh (US): Tự động nhận diện nút Like, Follow, Share... trên bản quốc tế.",
+    " - Nâng cấp Quét Acc.",
+    " - Fix lỗi hiển thị Xu: Hiển thị chính xác số tiền nhận được cho mỗi Job (25đ, 40đ...).",
+    " - Smart Rotation: Tự động đổi Nick thông minh khi hết Job hoặc lỗi thao tác liên tiếp.",
+    " - Tối ưu hóa hệ thống."
   ],
   "forceUpdate": false
 }
